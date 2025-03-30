@@ -1488,11 +1488,6 @@ path = SarifLandExtension
 url = ssh://git@github.com/CodeEditorLand/SarifLandExtension.git
 ignore = all
 
-[submodule "PlaywrightLand"]
-path = PlaywrightLand
-url = ssh://git@github.com/CodeEditorLand/PlaywrightLand.git
-ignore = all
-
 [submodule "MonacoEditor"]
 path = MonacoEditor
 url = ssh://git@github.com/CodeEditorLand/MonacoEditor.git
