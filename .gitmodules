@@ -1542,3 +1542,6 @@ ignore = all
 path = Quantum
 url = ssh://git@github.com/CodeEditorLand/Quantum.git
 ignore = all
+[submodule "PlaywrightLand"]
+	path = PlaywrightLand
+	url = ssh://git@github.com/CodeEditorLand/PlaywrightLand.git
