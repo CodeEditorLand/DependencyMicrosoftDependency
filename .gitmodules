@@ -563,11 +563,6 @@ path = LandMongoDB
 url = ssh://git@github.com/CodeEditorLand/LandMongoDB.git
 ignore = all
 
-[submodule "LandJupyterLSPMiddleware"]
-path = LandJupyterLSPMiddleware
-url = ssh://git@github.com/CodeEditorLand/LandJupyterLSPMiddleware.git
-ignore = all
-
 [submodule "LandJupyterPowertoys"]
 path = LandJupyterPowertoys
 url = ssh://git@github.com/CodeEditorLand/LandJupyterPowertoys.git
