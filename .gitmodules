@@ -1492,3 +1492,53 @@ ignore = all
 path = PlaywrightLand
 url = ssh://git@github.com/CodeEditorLand/PlaywrightLand.git
 ignore = all
+
+[submodule "LandWASM"]
+path = LandWASM
+url = ssh://git@github.com/CodeEditorLand/LandWASM.git
+ignore = all
+
+[submodule "LandDataWrangler"]
+path = LandDataWrangler
+url = ssh://git@github.com/CodeEditorLand/LandDataWrangler.git
+ignore = all
+
+[submodule "LandResharperKeybindings"]
+path = LandResharperKeybindings
+url = ssh://git@github.com/CodeEditorLand/LandResharperKeybindings.git
+ignore = all
+
+[submodule "LandJupyterIpywidgets"]
+path = LandJupyterIpywidgets
+url = ssh://git@github.com/CodeEditorLand/LandJupyterIpywidgets.git
+ignore = all
+
+[submodule "LandIsort"]
+path = LandIsort
+url = ssh://git@github.com/CodeEditorLand/LandIsort.git
+ignore = all
+
+[submodule "LandIconvLiteUMD"]
+path = LandIconvLiteUMD
+url = ssh://git@github.com/CodeEditorLand/LandIconvLiteUMD.git
+ignore = all
+
+[submodule "LandGrammarUpdater"]
+path = LandGrammarUpdater
+url = ssh://git@github.com/CodeEditorLand/LandGrammarUpdater.git
+ignore = all
+
+[submodule "LandDiagnosticTools"]
+path = LandDiagnosticTools
+url = ssh://git@github.com/CodeEditorLand/LandDiagnosticTools.git
+ignore = all
+
+[submodule "LandHexEditor"]
+path = LandHexEditor
+url = ssh://git@github.com/CodeEditorLand/LandHexEditor.git
+ignore = all
+
+[submodule "LandEmmetLegacy"]
+path = LandEmmetLegacy
+url = ssh://git@github.com/CodeEditorLand/LandEmmetLegacy.git
+ignore = all
