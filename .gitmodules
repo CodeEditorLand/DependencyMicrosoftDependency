@@ -1,1544 +1,1235 @@
 [submodule "ApplicationInsightsLand"]
 path = ApplicationInsightsLand
 url = ssh://git@github.com/CodeEditorLand/ApplicationInsightsLand.git
-ignore = all
 
 [submodule "AzureStreamAnalyticsInLand"]
 path = AzureStreamAnalyticsInLand
 url = ssh://git@github.com/CodeEditorLand/AzureStreamAnalyticsInLand.git
-ignore = all
 
 [submodule "ComposeLanguageService"]
 path = ComposeLanguageService
 url = ssh://git@github.com/CodeEditorLand/ComposeLanguageService.git
-ignore = all
 
 [submodule "DSToolkitDevContainers"]
 path = DSToolkitDevContainers
 url = ssh://git@github.com/CodeEditorLand/DSToolkitDevContainers.git
-ignore = all
 
 [submodule "LandAnacondaExtensionPack"]
 path = LandAnacondaExtensionPack
 url = ssh://git@github.com/CodeEditorLand/LandAnacondaExtensionPack.git
-ignore = all
 
 [submodule "Codetour"]
 path = Codetour
 url = ssh://git@github.com/CodeEditorLand/Codetour.git
-ignore = all
 
 [submodule "DevSkimLandPlugin"]
 path = DevSkimLandPlugin
 url = ssh://git@github.com/CodeEditorLand/DevSkimLandPlugin.git
-ignore = all
 
 [submodule "DevSkim"]
 path = DevSkim
 url = ssh://git@github.com/CodeEditorLand/DevSkim.git
-ignore = all
 
 [submodule "LandAnycode"]
 path = LandAnycode
 url = ssh://git@github.com/CodeEditorLand/LandAnycode.git
-ignore = all
 
 [submodule "AzurePipelinesLand"]
 path = AzurePipelinesLand
 url = ssh://git@github.com/CodeEditorLand/AzurePipelinesLand.git
-ignore = all
 
 [submodule "LandAppcenter"]
 path = LandAppcenter
 url = ssh://git@github.com/CodeEditorLand/LandAppcenter.git
-ignore = all
 
 [submodule "LandArduino"]
 path = LandArduino
 url = ssh://git@github.com/CodeEditorLand/LandArduino.git
-ignore = all
 
 [submodule "LandAsa"]
 path = LandAsa
 url = ssh://git@github.com/CodeEditorLand/LandAsa.git
-ignore = all
 
 [submodule "LandAtomKeybindings"]
 path = LandAtomKeybindings
 url = ssh://git@github.com/CodeEditorLand/LandAtomKeybindings.git
-ignore = all
 
 [submodule "LandAutopep8"]
 path = LandAutopep8
 url = ssh://git@github.com/CodeEditorLand/LandAutopep8.git
-ignore = all
 
 [submodule "AzureReposLand"]
 path = AzureReposLand
 url = ssh://git@github.com/CodeEditorLand/AzureReposLand.git
-ignore = all
 
 [submodule "LandAzureFunctionsRemoteWebExtension"]
 path = LandAzureFunctionsRemoteWebExtension
 url = ssh://git@github.com/CodeEditorLand/LandAzureFunctionsRemoteWebExtension.git
-ignore = all
 
 [submodule "LandAzureLogicapps"]
 path = LandAzureLogicapps
 url = ssh://git@github.com/CodeEditorLand/LandAzureLogicapps.git
-ignore = all
 
 [submodule "LandAzurePack"]
 path = LandAzurePack
 url = ssh://git@github.com/CodeEditorLand/LandAzurePack.git
-ignore = all
 
 [submodule "LandAzureContainerapps"]
 path = LandAzureContainerapps
 url = ssh://git@github.com/CodeEditorLand/LandAzureContainerapps.git
-ignore = all
 
 [submodule "DeoptexplorerLand"]
 path = DeoptexplorerLand
 url = ssh://git@github.com/CodeEditorLand/DeoptexplorerLand.git
-ignore = all
 
 [submodule "LandAzureCache"]
 path = LandAzureCache
 url = ssh://git@github.com/CodeEditorLand/LandAzureCache.git
-ignore = all
 
 [submodule "LandAzureAccount"]
 path = LandAzureAccount
 url = ssh://git@github.com/CodeEditorLand/LandAzureAccount.git
-ignore = all
 
 [submodule "LandAzureEventGrid"]
 path = LandAzureEventGrid
 url = ssh://git@github.com/CodeEditorLand/LandAzureEventGrid.git
-ignore = all
 
 [submodule "LandBackSpace"]
 path = LandBackSpace
 url = ssh://git@github.com/CodeEditorLand/LandBackSpace.git
-ignore = all
 
 [submodule "LandBracketsKeybindings"]
 path = LandBracketsKeybindings
 url = ssh://git@github.com/CodeEditorLand/LandBracketsKeybindings.git
-ignore = all
 
 [submodule "LandBracketsPack"]
 path = LandBracketsPack
 url = ssh://git@github.com/CodeEditorLand/LandBracketsPack.git
-ignore = all
 
 [submodule "LandBisect"]
 path = LandBisect
 url = ssh://git@github.com/CodeEditorLand/LandBisect.git
-ignore = all
 
 [submodule "LandBlackFormatter"]
 path = LandBlackFormatter
 url = ssh://git@github.com/CodeEditorLand/LandBlackFormatter.git
-ignore = all
 
 [submodule "LandAzureTools"]
 path = LandAzureTools
 url = ssh://git@github.com/CodeEditorLand/LandAzureTools.git
-ignore = all
 
 [submodule "LandAzureAutomation"]
 path = LandAzureAutomation
 url = ssh://git@github.com/CodeEditorLand/LandAzureAutomation.git
-ignore = all
 
 [submodule "LandCPPToolsApi"]
 path = LandCPPToolsApi
 url = ssh://git@github.com/CodeEditorLand/LandCPPToolsApi.git
-ignore = all
 
 [submodule "LandCourseSample"]
 path = LandCourseSample
 url = ssh://git@github.com/CodeEditorLand/LandCourseSample.git
-ignore = all
 
 [submodule "LandCmakeToolsApi"]
 path = LandCmakeToolsApi
 url = ssh://git@github.com/CodeEditorLand/LandCmakeToolsApi.git
-ignore = all
 
 [submodule "LandCdpProxy"]
 path = LandCdpProxy
 url = ssh://git@github.com/CodeEditorLand/LandCdpProxy.git
-ignore = all
 
 [submodule "LandAzureBlockchainEthereum"]
 path = LandAzureBlockchainEthereum
 url = ssh://git@github.com/CodeEditorLand/LandAzureBlockchainEthereum.git
-ignore = all
 
 [submodule "LandDebugAdapterNode"]
 path = LandDebugAdapterNode
 url = ssh://git@github.com/CodeEditorLand/LandDebugAdapterNode.git
-ignore = all
 
 [submodule "LandCmakeTools"]
 path = LandCmakeTools
 url = ssh://git@github.com/CodeEditorLand/LandCmakeTools.git
-ignore = all
 
 [submodule "LandAzureResourceGroups"]
 path = LandAzureResourceGroups
 url = ssh://git@github.com/CodeEditorLand/LandAzureResourceGroups.git
-ignore = all
 
 [submodule "LandDiscussions"]
 path = LandDiscussions
 url = ssh://git@github.com/CodeEditorLand/LandDiscussions.git
-ignore = all
 
 [submodule "LandCdp"]
 path = LandCdp
 url = ssh://git@github.com/CodeEditorLand/LandCdp.git
-ignore = all
 
 [submodule "LandAzureVirtualMachines"]
 path = LandAzureVirtualMachines
 url = ssh://git@github.com/CodeEditorLand/LandAzureVirtualMachines.git
-ignore = all
 
 [submodule "LandDts"]
 path = LandDts
 url = ssh://git@github.com/CodeEditorLand/LandDts.git
-ignore = all
 
 [submodule "LandChromeDebugCore"]
 path = LandChromeDebugCore
 url = ssh://git@github.com/CodeEditorLand/LandChromeDebugCore.git
-ignore = all
 
 [submodule "LandAzureStorage"]
 path = LandAzureStorage
 url = ssh://git@github.com/CodeEditorLand/LandAzureStorage.git
-ignore = all
 
 [submodule "LandEdgeDebug"]
 path = LandEdgeDebug
 url = ssh://git@github.com/CodeEditorLand/LandEdgeDebug.git
-ignore = all
 
 [submodule "LandDwarfDebugging"]
 path = LandDwarfDebugging
 url = ssh://git@github.com/CodeEditorLand/LandDwarfDebugging.git
-ignore = all
 
 [submodule "LandEmmetHelper"]
 path = LandEmmetHelper
 url = ssh://git@github.com/CodeEditorLand/LandEmmetHelper.git
-ignore = all
 
 [submodule "LandCodicons"]
 path = LandCodicons
 url = ssh://git@github.com/CodeEditorLand/LandCodicons.git
-ignore = all
 
 [submodule "LandDotNETTools"]
 path = LandDotNETTools
 url = ssh://git@github.com/CodeEditorLand/LandDotNETTools.git
-ignore = all
 
 [submodule "LandDevContainers"]
 path = LandDevContainers
 url = ssh://git@github.com/CodeEditorLand/LandDevContainers.git
-ignore = all
 
 [submodule "LandCSSLanguageService"]
 path = LandCSSLanguageService
 url = ssh://git@github.com/CodeEditorLand/LandCSSLanguageService.git
-ignore = all
 
 [submodule "LandEmbeddedTools"]
 path = LandEmbeddedTools
 url = ssh://git@github.com/CodeEditorLand/LandEmbeddedTools.git
-ignore = all
 
 [submodule "LandExplorerCommand"]
 path = LandExplorerCommand
 url = ssh://git@github.com/CodeEditorLand/LandExplorerCommand.git
-ignore = all
 
 [submodule "LandDockerExtensibility"]
 path = LandDockerExtensibility
 url = ssh://git@github.com/CodeEditorLand/LandDockerExtensibility.git
-ignore = all
 
 [submodule "LandDevChromeLauncher"]
 path = LandDevChromeLauncher
 url = ssh://git@github.com/CodeEditorLand/LandDevChromeLauncher.git
-ignore = all
 
 [submodule "LandGeneratorCodeJavascript"]
 path = LandGeneratorCodeJavascript
 url = ssh://git@github.com/CodeEditorLand/LandGeneratorCodeJavascript.git
-ignore = all
 
 [submodule "LandFileDownloaderApi"]
 path = LandFileDownloaderApi
 url = ssh://git@github.com/CodeEditorLand/LandFileDownloaderApi.git
-ignore = all
 
 [submodule "LandFlake8"]
 path = LandFlake8
 url = ssh://git@github.com/CodeEditorLand/LandFlake8.git
-ignore = all
 
 [submodule "LandExtensionTelemetry"]
 path = LandExtensionTelemetry
 url = ssh://git@github.com/CodeEditorLand/LandExtensionTelemetry.git
-ignore = all
 
 [submodule "LandGeneratorCode"]
 path = LandGeneratorCode
 url = ssh://git@github.com/CodeEditorLand/LandGeneratorCode.git
-ignore = all
 
 [submodule "LandFileDownloader"]
 path = LandFileDownloader
 url = ssh://git@github.com/CodeEditorLand/LandFileDownloader.git
-ignore = all
 
 [submodule "LandCordova"]
 path = LandCordova
 url = ssh://git@github.com/CodeEditorLand/LandCordova.git
-ignore = all
 
 [submodule "LandFilewatcherWindows"]
 path = LandFilewatcherWindows
 url = ssh://git@github.com/CodeEditorLand/LandFilewatcherWindows.git
-ignore = all
 
 [submodule "LandGitHubTriageActions"]
 path = LandGitHubTriageActions
 url = ssh://git@github.com/CodeEditorLand/LandGitHubTriageActions.git
-ignore = all
 
 [submodule "LandGather"]
 path = LandGather
 url = ssh://git@github.com/CodeEditorLand/LandGather.git
-ignore = all
 
 [submodule "LandExtensionRecommender"]
 path = LandExtensionRecommender
 url = ssh://git@github.com/CodeEditorLand/LandExtensionRecommender.git
-ignore = all
 
 [submodule "LandExtensionLand"]
 path = LandExtensionLand
 url = ssh://git@github.com/CodeEditorLand/LandExtensionLand.git
-ignore = all
 
 [submodule "LandAzureArmTools"]
 path = LandAzureArmTools
 url = ssh://git@github.com/CodeEditorLand/LandAzureArmTools.git
-ignore = all
 
 [submodule "LandAzureIOTEdge"]
 path = LandAzureIOTEdge
 url = ssh://git@github.com/CodeEditorLand/LandAzureIOTEdge.git
-ignore = all
 
 [submodule "LandHTMLHint"]
 path = LandHTMLHint
 url = ssh://git@github.com/CodeEditorLand/LandHTMLHint.git
-ignore = all
 
 [submodule "LandESLint"]
 path = LandESLint
 url = ssh://git@github.com/CodeEditorLand/LandESLint.git
-ignore = all
 
 [submodule "LandGulpElectron"]
 path = LandGulpElectron
 url = ssh://git@github.com/CodeEditorLand/LandGulpElectron.git
-ignore = all
 
 [submodule "LandHTMLTagWrap"]
 path = LandHTMLTagWrap
 url = ssh://git@github.com/CodeEditorLand/LandHTMLTagWrap.git
-ignore = all
 
 [submodule "LandExtensionTestRunner"]
 path = LandExtensionTestRunner
 url = ssh://git@github.com/CodeEditorLand/LandExtensionTestRunner.git
-ignore = all
 
 [submodule "LandJSAtomGrammar"]
 path = LandJSAtomGrammar
 url = ssh://git@github.com/CodeEditorLand/LandJSAtomGrammar.git
-ignore = all
 
 [submodule "LandGitHubIssuesPrs"]
 path = LandGitHubIssuesPrs
 url = ssh://git@github.com/CodeEditorLand/LandGitHubIssuesPrs.git
-ignore = all
 
 [submodule "LandHydrate"]
 path = LandHydrate
 url = ssh://git@github.com/CodeEditorLand/LandHydrate.git
-ignore = all
 
 [submodule "LandJavaInstaller"]
 path = LandJavaInstaller
 url = ssh://git@github.com/CodeEditorLand/LandJavaInstaller.git
-ignore = all
 
 [submodule "LandJSDebugCompanion"]
 path = LandJSDebugCompanion
 url = ssh://git@github.com/CodeEditorLand/LandJSDebugCompanion.git
-ignore = all
 
 [submodule "LandJSON.tmLanguage"]
 path = LandJSON.tmLanguage
 url = ssh://git@github.com/CodeEditorLand/LandJSON.tmLanguage.git
-ignore = all
 
 [submodule "LandJSDebugBrowsers"]
 path = LandJSDebugBrowsers
 url = ssh://git@github.com/CodeEditorLand/LandJSDebugBrowsers.git
-ignore = all
 
 [submodule "LandHTMLLanguageService"]
 path = LandHTMLLanguageService
 url = ssh://git@github.com/CodeEditorLand/LandHTMLLanguageService.git
-ignore = all
 
 [submodule "LandCPPTools"]
 path = LandCPPTools
 url = ssh://git@github.com/CodeEditorLand/LandCPPTools.git
-ignore = all
 
 [submodule "LandJupyterKeymap"]
 path = LandJupyterKeymap
 url = ssh://git@github.com/CodeEditorLand/LandJupyterKeymap.git
-ignore = all
 
 [submodule "LandJSCS"]
 path = LandJSCS
 url = ssh://git@github.com/CodeEditorLand/LandJSCS.git
-ignore = all
 
 [submodule "LandJupyterSlideshow"]
 path = LandJupyterSlideshow
 url = ssh://git@github.com/CodeEditorLand/LandJupyterSlideshow.git
-ignore = all
 
 [submodule "LandIcons"]
 path = LandIcons
 url = ssh://git@github.com/CodeEditorLand/LandIcons.git
-ignore = all
 
 [submodule "LandJavaTest"]
 path = LandJavaTest
 url = ssh://git@github.com/CodeEditorLand/LandJavaTest.git
-ignore = all
 
 [submodule "LandJupyterHub"]
 path = LandJupyterHub
 url = ssh://git@github.com/CodeEditorLand/LandJupyterHub.git
-ignore = all
 
 [submodule "LandLoader"]
 path = LandLoader
 url = ssh://git@github.com/CodeEditorLand/LandLoader.git
-ignore = all
 
 [submodule "LandMarkdownTmGrammar"]
 path = LandMarkdownTmGrammar
 url = ssh://git@github.com/CodeEditorLand/LandMarkdownTmGrammar.git
-ignore = all
 
 [submodule "LandJSonLanguageService"]
 path = LandJSonLanguageService
 url = ssh://git@github.com/CodeEditorLand/LandJSonLanguageService.git
-ignore = all
 
 [submodule "LandDAPR"]
 path = LandDAPR
 url = ssh://git@github.com/CodeEditorLand/LandDAPR.git
-ignore = all
 
 [submodule "LandFigmaToolkit"]
 path = LandFigmaToolkit
 url = ssh://git@github.com/CodeEditorLand/LandFigmaToolkit.git
-ignore = all
 
 [submodule "LandLinuxBuildAgent"]
 path = LandLinuxBuildAgent
 url = ssh://git@github.com/CodeEditorLand/LandLinuxBuildAgent.git
-ignore = all
 
 [submodule "LandLanguageServerNode"]
 path = LandLanguageServerNode
 url = ssh://git@github.com/CodeEditorLand/LandLanguageServerNode.git
-ignore = all
 
 [submodule "LandLaTeX"]
 path = LandLaTeX
 url = ssh://git@github.com/CodeEditorLand/LandLaTeX.git
-ignore = all
 
 [submodule "LandMinimist"]
 path = LandMinimist
 url = ssh://git@github.com/CodeEditorLand/LandMinimist.git
-ignore = all
 
 [submodule "LandGitHubIssueNotebooks"]
 path = LandGitHubIssueNotebooks
 url = ssh://git@github.com/CodeEditorLand/LandGitHubIssueNotebooks.git
-ignore = all
 
 [submodule "LandCosmosDBGraph"]
 path = LandCosmosDBGraph
 url = ssh://git@github.com/CodeEditorLand/LandCosmosDBGraph.git
-ignore = all
 
 [submodule "LandMDTools"]
 path = LandMDTools
 url = ssh://git@github.com/CodeEditorLand/LandMDTools.git
-ignore = all
 
 [submodule "LandMarkdownItKatex"]
 path = LandMarkdownItKatex
 url = ssh://git@github.com/CodeEditorLand/LandMarkdownItKatex.git
-ignore = all
 
 [submodule "LandFigmaIcons"]
 path = LandFigmaIcons
 url = ssh://git@github.com/CodeEditorLand/LandFigmaIcons.git
-ignore = all
 
 [submodule "LandLombok"]
 path = LandLombok
 url = ssh://git@github.com/CodeEditorLand/LandLombok.git
-ignore = all
 
 [submodule "LandMonoDebug"]
 path = LandMonoDebug
 url = ssh://git@github.com/CodeEditorLand/LandMonoDebug.git
-ignore = all
 
 [submodule "LandJavaDependency"]
 path = LandJavaDependency
 url = ssh://git@github.com/CodeEditorLand/LandJavaDependency.git
-ignore = all
 
 [submodule "LandNotebookErrorOverlay"]
 path = LandNotebookErrorOverlay
 url = ssh://git@github.com/CodeEditorLand/LandNotebookErrorOverlay.git
-ignore = all
 
 [submodule "LandMongoDB"]
 path = LandMongoDB
 url = ssh://git@github.com/CodeEditorLand/LandMongoDB.git
-ignore = all
 
 [submodule "LandJupyterPowertoys"]
 path = LandJupyterPowertoys
 url = ssh://git@github.com/CodeEditorLand/LandJupyterPowertoys.git
-ignore = all
 
 [submodule "LandMypy"]
 path = LandMypy
 url = ssh://git@github.com/CodeEditorLand/LandMypy.git
-ignore = all
 
 [submodule "LandNls"]
 path = LandNls
 url = ssh://git@github.com/CodeEditorLand/LandNls.git
-ignore = all
 
 [submodule "LandPerfBot"]
 path = LandPerfBot
 url = ssh://git@github.com/CodeEditorLand/LandPerfBot.git
-ignore = all
 
 [submodule "LandNlsDev"]
 path = LandNlsDev
 url = ssh://git@github.com/CodeEditorLand/LandNlsDev.git
-ignore = all
 
 [submodule "LandLocDeprecated"]
 path = LandLocDeprecated
 url = ssh://git@github.com/CodeEditorLand/LandLocDeprecated.git
-ignore = all
 
 [submodule "LandPlatformSpecificSample"]
 path = LandPlatformSpecificSample
 url = ssh://git@github.com/CodeEditorLand/LandPlatformSpecificSample.git
-ignore = all
 
 [submodule "LandPolicyWatcher"]
 path = LandPolicyWatcher
 url = ssh://git@github.com/CodeEditorLand/LandPolicyWatcher.git
-ignore = all
 
 [submodule "LandIosWebDebug"]
 path = LandIosWebDebug
 url = ssh://git@github.com/CodeEditorLand/LandIosWebDebug.git
-ignore = all
 
 [submodule "LandNotebookRendererStarter"]
 path = LandNotebookRendererStarter
 url = ssh://git@github.com/CodeEditorLand/LandNotebookRendererStarter.git
-ignore = all
 
 [submodule "LandOnedriveBrowser"]
 path = LandOnedriveBrowser
 url = ssh://git@github.com/CodeEditorLand/LandOnedriveBrowser.git
-ignore = all
 
 [submodule "LandNotepadPlusPlusKeybindings"]
 path = LandNotepadPlusPlusKeybindings
 url = ssh://git@github.com/CodeEditorLand/LandNotepadPlusPlusKeybindings.git
-ignore = all
 
 [submodule "LandMssql"]
 path = LandMssql
 url = ssh://git@github.com/CodeEditorLand/LandMssql.git
-ignore = all
 
 [submodule "LandPostgresql"]
 path = LandPostgresql
 url = ssh://git@github.com/CodeEditorLand/LandPostgresql.git
-ignore = all
 
 [submodule "LandOpenSSLPrebuilt"]
 path = LandOpenSSLPrebuilt
 url = ssh://git@github.com/CodeEditorLand/LandOpenSSLPrebuilt.git
-ignore = all
 
 [submodule "LandJSHint"]
 path = LandJSHint
 url = ssh://git@github.com/CodeEditorLand/LandJSHint.git
-ignore = all
 
 [submodule "LandPythonToolsExtensionTemplate"]
 path = LandPythonToolsExtensionTemplate
 url = ssh://git@github.com/CodeEditorLand/LandPythonToolsExtensionTemplate.git
-ignore = all
 
 [submodule "LandProxyAgent"]
 path = LandProxyAgent
 url = ssh://git@github.com/CodeEditorLand/LandProxyAgent.git
-ignore = all
 
 [submodule "LandPwaAnalyzer"]
 path = LandPwaAnalyzer
 url = ssh://git@github.com/CodeEditorLand/LandPwaAnalyzer.git
-ignore = all
 
 [submodule "LandPythonDebugger"]
 path = LandPythonDebugger
 url = ssh://git@github.com/CodeEditorLand/LandPythonDebugger.git
-ignore = all
 
 [submodule "LandPowerquery"]
 path = LandPowerquery
 url = ssh://git@github.com/CodeEditorLand/LandPowerquery.git
-ignore = all
 
 [submodule "LandPythonInstaller"]
 path = LandPythonInstaller
 url = ssh://git@github.com/CodeEditorLand/LandPythonInstaller.git
-ignore = all
 
 [submodule "LandNodeDebug"]
 path = LandNodeDebug
 url = ssh://git@github.com/CodeEditorLand/LandNodeDebug.git
-ignore = all
 
 [submodule "LandPythonDsExtensionPack"]
 path = LandPythonDsExtensionPack
 url = ssh://git@github.com/CodeEditorLand/LandPythonDsExtensionPack.git
-ignore = all
 
 [submodule "LandRemoteTryDotNET"]
 path = LandRemoteTryDotNET
 url = ssh://git@github.com/CodeEditorLand/LandRemoteTryDotNET.git
-ignore = all
 
 [submodule "LandMezzurite"]
 path = LandMezzurite
 url = ssh://git@github.com/CodeEditorLand/LandMezzurite.git
-ignore = all
 
 [submodule "LandRemoteTryGo"]
 path = LandRemoteTryGo
 url = ssh://git@github.com/CodeEditorLand/LandRemoteTryGo.git
-ignore = all
 
 [submodule "LandPylint"]
 path = LandPylint
 url = ssh://git@github.com/CodeEditorLand/LandPylint.git
-ignore = all
 
 [submodule "LandAzureIOTToolkit"]
 path = LandAzureIOTToolkit
 url = ssh://git@github.com/CodeEditorLand/LandAzureIOTToolkit.git
-ignore = all
 
 [submodule "LandRemoteTryRust"]
 path = LandRemoteTryRust
 url = ssh://git@github.com/CodeEditorLand/LandRemoteTryRust.git
-ignore = all
 
 [submodule "LandRemoteTryCPP"]
 path = LandRemoteTryCPP
 url = ssh://git@github.com/CodeEditorLand/LandRemoteTryCPP.git
-ignore = all
 
 [submodule "LandRemoteTryJava"]
 path = LandRemoteTryJava
 url = ssh://git@github.com/CodeEditorLand/LandRemoteTryJava.git
-ignore = all
 
 [submodule "LandSCMBuilders"]
 path = LandSCMBuilders
 url = ssh://git@github.com/CodeEditorLand/LandSCMBuilders.git
-ignore = all
 
 [submodule "LandRipGREP"]
 path = LandRipGREP
 url = ssh://git@github.com/CodeEditorLand/LandRipGREP.git
-ignore = all
 
 [submodule "LandRemoteTryPhp"]
 path = LandRemoteTryPhp
 url = ssh://git@github.com/CodeEditorLand/LandRemoteTryPhp.git
-ignore = all
 
 [submodule "LandRemoteTryNode"]
 path = LandRemoteTryNode
 url = ssh://git@github.com/CodeEditorLand/LandRemoteTryNode.git
-ignore = all
 
 [submodule "LandSerialMonitor"]
 path = LandSerialMonitor
 url = ssh://git@github.com/CodeEditorLand/LandSerialMonitor.git
-ignore = all
 
 [submodule "LandRemoteTrySQLserver"]
 path = LandRemoteTrySQLserver
 url = ssh://git@github.com/CodeEditorLand/LandRemoteTrySQLserver.git
-ignore = all
 
 [submodule "LandRussh"]
 path = LandRussh
 url = ssh://git@github.com/CodeEditorLand/LandRussh.git
-ignore = all
 
 [submodule "LandSamples"]
 path = LandSamples
 url = ssh://git@github.com/CodeEditorLand/LandSamples.git
-ignore = all
 
 [submodule "LandSmokeTestExpress"]
 path = LandSmokeTestExpress
 url = ssh://git@github.com/CodeEditorLand/LandSmokeTestExpress.git
-ignore = all
 
 [submodule "LandServiceStatus"]
 path = LandServiceStatus
 url = ssh://git@github.com/CodeEditorLand/LandServiceStatus.git
-ignore = all
 
 [submodule "LandSelfhostTestProvider"]
 path = LandSelfhostTestProvider
 url = ssh://git@github.com/CodeEditorLand/LandSelfhostTestProvider.git
-ignore = all
 
 [submodule "LandspacesQuickstart"]
 path = LandspacesQuickstart
 url = ssh://git@github.com/CodeEditorLand/LandspacesQuickstart.git
-ignore = all
 
 [submodule "LandMarkdownLanguageService"]
 path = LandMarkdownLanguageService
 url = ssh://git@github.com/CodeEditorLand/LandMarkdownLanguageService.git
-ignore = all
 
 [submodule "LandRemoteWSLRecommender"]
 path = LandRemoteWSLRecommender
 url = ssh://git@github.com/CodeEditorLand/LandRemoteWSLRecommender.git
-ignore = all
 
 [submodule "LandAzureServerlessPack"]
 path = LandAzureServerlessPack
 url = ssh://git@github.com/CodeEditorLand/LandAzureServerlessPack.git
-ignore = all
 
 [submodule "LandStac"]
 path = LandStac
 url = ssh://git@github.com/CodeEditorLand/LandStac.git
-ignore = all
 
 [submodule "LandSublimeKeybindings"]
 path = LandSublimeKeybindings
 url = ssh://git@github.com/CodeEditorLand/LandSublimeKeybindings.git
-ignore = all
 
 [submodule "LandTest"]
 path = LandTest
 url = ssh://git@github.com/CodeEditorLand/LandTest.git
-ignore = all
 
 [submodule "LandTasExpress"]
 path = LandTasExpress
 url = ssh://git@github.com/CodeEditorLand/LandTasExpress.git
-ignore = all
 
 [submodule "LandServiceFabricReliableServices"]
 path = LandServiceFabricReliableServices
 url = ssh://git@github.com/CodeEditorLand/LandServiceFabricReliableServices.git
-ignore = all
 
 [submodule "LandSecretServiceRs"]
 path = LandSecretServiceRs
 url = ssh://git@github.com/CodeEditorLand/LandSecretServiceRs.git
-ignore = all
 
 [submodule "LandSpellCheck"]
 path = LandSpellCheck
 url = ssh://git@github.com/CodeEditorLand/LandSpellCheck.git
-ignore = all
 
 [submodule "LandTeam"]
 path = LandTeam
 url = ssh://git@github.com/CodeEditorLand/LandTeam.git
-ignore = all
 
 [submodule "LandTestWeb"]
 path = LandTestWeb
 url = ssh://git@github.com/CodeEditorLand/LandTestWeb.git
-ignore = all
 
 [submodule "LandTelemetryExtractor"]
 path = LandTelemetryExtractor
 url = ssh://git@github.com/CodeEditorLand/LandTelemetryExtractor.git
-ignore = all
 
 [submodule "LandThemeColorConsumer"]
 path = LandThemeColorConsumer
 url = ssh://git@github.com/CodeEditorLand/LandThemeColorConsumer.git
-ignore = all
 
 [submodule "LandTasAngular"]
 path = LandTasAngular
 url = ssh://git@github.com/CodeEditorLand/LandTasAngular.git
-ignore = all
 
 [submodule "LandTestAdapterConverter"]
 path = LandTestAdapterConverter
 url = ssh://git@github.com/CodeEditorLand/LandTestAdapterConverter.git
-ignore = all
 
 [submodule "LandTestCover"]
 path = LandTestCover
 url = ssh://git@github.com/CodeEditorLand/LandTestCover.git
-ignore = all
 
 [submodule "LandTMDL"]
 path = LandTMDL
 url = ssh://git@github.com/CodeEditorLand/LandTMDL.git
-ignore = all
 
 [submodule "LandThemeTester"]
 path = LandThemeTester
 url = ssh://git@github.com/CodeEditorLand/LandThemeTester.git
-ignore = all
 
 [submodule "LandTextBuffer"]
 path = LandTextBuffer
 url = ssh://git@github.com/CodeEditorLand/LandTextBuffer.git
-ignore = all
 
 [submodule "LandTSPackageManager"]
 path = LandTSPackageManager
 url = ssh://git@github.com/CodeEditorLand/LandTSPackageManager.git
-ignore = all
 
 [submodule "LandTypeScriptNext"]
 path = LandTypeScriptNext
 url = ssh://git@github.com/CodeEditorLand/LandTypeScriptNext.git
-ignore = all
 
 [submodule "LandVSKeybindings"]
 path = LandVSKeybindings
 url = ssh://git@github.com/CodeEditorLand/LandVSKeybindings.git
-ignore = all
 
 [submodule "LandV8HeapTools"]
 path = LandV8HeapTools
 url = ssh://git@github.com/CodeEditorLand/LandV8HeapTools.git
-ignore = all
 
 [submodule "LandTensorboard"]
 path = LandTensorboard
 url = ssh://git@github.com/CodeEditorLand/LandTensorboard.git
-ignore = all
 
 [submodule "LandWebPlayground"]
 path = LandWebPlayground
 url = ssh://git@github.com/CodeEditorLand/LandWebPlayground.git
-ignore = all
 
 [submodule "LandWindowsRegistry"]
 path = LandWindowsRegistry
 url = ssh://git@github.com/CodeEditorLand/LandWindowsRegistry.git
-ignore = all
 
 [submodule "LandCustomData"]
 path = LandCustomData
 url = ssh://git@github.com/CodeEditorLand/LandCustomData.git
-ignore = all
 
 [submodule "LandZeroMQ"]
 path = LandZeroMQ
 url = ssh://git@github.com/CodeEditorLand/LandZeroMQ.git
-ignore = all
 
 [submodule "LandURI"]
 path = LandURI
 url = ssh://git@github.com/CodeEditorLand/LandURI.git
-ignore = all
 
 [submodule "LandWindowsProcessTree"]
 path = LandWindowsProcessTree
 url = ssh://git@github.com/CodeEditorLand/LandWindowsProcessTree.git
-ignore = all
 
 [submodule "LandWin32AppContainerTokens"]
 path = LandWin32AppContainerTokens
 url = ssh://git@github.com/CodeEditorLand/LandWin32AppContainerTokens.git
-ignore = all
 
 [submodule "LandWindowsCaCerts"]
 path = LandWindowsCaCerts
 url = ssh://git@github.com/CodeEditorLand/LandWindowsCaCerts.git
-ignore = all
 
 [submodule "LandReactNative"]
 path = LandReactNative
 url = ssh://git@github.com/CodeEditorLand/LandReactNative.git
-ignore = all
 
 [submodule "LandTSLint"]
 path = LandTSLint
 url = ssh://git@github.com/CodeEditorLand/LandTSLint.git
-ignore = all
 
 [submodule "LandVSCE"]
 path = LandVSCE
 url = ssh://git@github.com/CodeEditorLand/LandVSCE.git
-ignore = all
 
 [submodule "LandNodeSQLite3"]
 path = LandNodeSQLite3
 url = ssh://git@github.com/CodeEditorLand/LandNodeSQLite3.git
-ignore = all
 
 [submodule "LandRemoteTryPython"]
 path = LandRemoteTryPython
 url = ssh://git@github.com/CodeEditorLand/LandRemoteTryPython.git
-ignore = all
 
 [submodule "LandTSTSLint"]
 path = LandTSTSLint
 url = ssh://git@github.com/CodeEditorLand/LandTSTSLint.git
-ignore = all
 
 [submodule "LandTasVue"]
 path = LandTasVue
 url = ssh://git@github.com/CodeEditorLand/LandTasVue.git
-ignore = all
 
 [submodule "SynapseLand"]
 path = SynapseLand
 url = ssh://git@github.com/CodeEditorLand/SynapseLand.git
-ignore = all
 
 [submodule "LandTypeScriptTSLintPlugin"]
 path = LandTypeScriptTSLintPlugin
 url = ssh://git@github.com/CodeEditorLand/LandTypeScriptTSLintPlugin.git
-ignore = all
 
 [submodule "LandNodebook"]
 path = LandNodebook
 url = ssh://git@github.com/CodeEditorLand/LandNodebook.git
-ignore = all
 
 [submodule "ThemeConverterForVS"]
 path = ThemeConverterForVS
 url = ssh://git@github.com/CodeEditorLand/ThemeConverterForVS.git
-ignore = all
 
 [submodule "PSDocsLand"]
 path = PSDocsLand
 url = ssh://git@github.com/CodeEditorLand/PSDocsLand.git
-ignore = all
 
 [submodule "LandOcticonsFont"]
 path = LandOcticonsFont
 url = ssh://git@github.com/CodeEditorLand/LandOcticonsFont.git
-ignore = all
 
 [submodule "TypeScriptLandExtensions"]
 path = TypeScriptLandExtensions
 url = ssh://git@github.com/CodeEditorLand/TypeScriptLandExtensions.git
-ignore = all
 
 [submodule "LandWinsta11er"]
 path = LandWinsta11er
 url = ssh://git@github.com/CodeEditorLand/LandWinsta11er.git
-ignore = all
 
 [submodule "PythonSampleLandFlaskTutorial"]
 path = PythonSampleLandFlaskTutorial
 url = ssh://git@github.com/CodeEditorLand/PythonSampleLandFlaskTutorial.git
-ignore = all
 
 [submodule "LandSimpleJupyterNotebook"]
 path = LandSimpleJupyterNotebook
 url = ssh://git@github.com/CodeEditorLand/LandSimpleJupyterNotebook.git
-ignore = all
 
 [submodule "LandSpringInitializr"]
 path = LandSpringInitializr
 url = ssh://git@github.com/CodeEditorLand/LandSpringInitializr.git
-ignore = all
 
 [submodule "LinkCheckerMD"]
 path = LinkCheckerMD
 url = ssh://git@github.com/CodeEditorLand/LinkCheckerMD.git
-ignore = all
 
 [submodule "LandJupyter"]
 path = LandJupyter
 url = ssh://git@github.com/CodeEditorLand/LandJupyter.git
-ignore = all
 
 [submodule "LandEdgeDevToolsNetwork"]
 path = LandEdgeDevToolsNetwork
 url = ssh://git@github.com/CodeEditorLand/LandEdgeDevToolsNetwork.git
-ignore = all
 
 [submodule "LandPowerquerySdk"]
 path = LandPowerquerySdk
 url = ssh://git@github.com/CodeEditorLand/LandPowerquerySdk.git
-ignore = all
 
 [submodule "PowerPlatformLandLab"]
 path = PowerPlatformLandLab
 url = ssh://git@github.com/CodeEditorLand/PowerPlatformLandLab.git
-ignore = all
 
 [submodule "PowerPlatformLand"]
 path = PowerPlatformLand
 url = ssh://git@github.com/CodeEditorLand/PowerPlatformLand.git
-ignore = all
 
 [submodule "LandAzureCli"]
 path = LandAzureCli
 url = ssh://git@github.com/CodeEditorLand/LandAzureCli.git
-ignore = all
 
 [submodule "LandAzureStaticwebapps"]
 path = LandAzureStaticwebapps
 url = ssh://git@github.com/CodeEditorLand/LandAzureStaticwebapps.git
-ignore = all
 
 [submodule "LandGradle"]
 path = LandGradle
 url = ssh://git@github.com/CodeEditorLand/LandGradle.git
-ignore = all
 
 [submodule "LandNotebookTestData"]
 path = LandNotebookTestData
 url = ssh://git@github.com/CodeEditorLand/LandNotebookTestData.git
-ignore = all
 
 [submodule "LandWiki"]
 path = LandWiki
 url = ssh://git@github.com/CodeEditorLand/LandWiki.git
-ignore = all
 
 [submodule "LandLoc"]
 path = LandLoc
 url = ssh://git@github.com/CodeEditorLand/LandLoc.git
-ignore = all
 
 [submodule "LandSpringBootDashboard"]
 path = LandSpringBootDashboard
 url = ssh://git@github.com/CodeEditorLand/LandSpringBootDashboard.git
-ignore = all
 
 [submodule "LandMaven"]
 path = LandMaven
 url = ssh://git@github.com/CodeEditorLand/LandMaven.git
-ignore = all
 
 [submodule "LandCosmosDB"]
 path = LandCosmosDB
 url = ssh://git@github.com/CodeEditorLand/LandCosmosDB.git
-ignore = all
 
 [submodule "LandJavaDebug"]
 path = LandJavaDebug
 url = ssh://git@github.com/CodeEditorLand/LandJavaDebug.git
-ignore = all
 
 [submodule "LandJSDebug"]
 path = LandJSDebug
 url = ssh://git@github.com/CodeEditorLand/LandJSDebug.git
-ignore = all
 
 [submodule "LandEdgeDebug2"]
 path = LandEdgeDebug2
 url = ssh://git@github.com/CodeEditorLand/LandEdgeDebug2.git
-ignore = all
 
 [submodule "LandAzureIOTTools"]
 path = LandAzureIOTTools
 url = ssh://git@github.com/CodeEditorLand/LandAzureIOTTools.git
-ignore = all
 
 [submodule "LandChromeDebug"]
 path = LandChromeDebug
 url = ssh://git@github.com/CodeEditorLand/LandChromeDebug.git
-ignore = all
 
 [submodule "LandAzureCognitiveSearch"]
 path = LandAzureCognitiveSearch
 url = ssh://git@github.com/CodeEditorLand/LandAzureCognitiveSearch.git
-ignore = all
 
 [submodule "LandPythonWebWASM"]
 path = LandPythonWebWASM
 url = ssh://git@github.com/CodeEditorLand/LandPythonWebWASM.git
-ignore = all
 
 [submodule "LandAzureHealthcareAPIsTools"]
 path = LandAzureHealthcareAPIsTools
 url = ssh://git@github.com/CodeEditorLand/LandAzureHealthcareAPIsTools.git
-ignore = all
 
 [submodule "LandIOTWorkbench"]
 path = LandIOTWorkbench
 url = ssh://git@github.com/CodeEditorLand/LandIOTWorkbench.git
-ignore = all
 
 [submodule "LandPythonDeviceSimulator"]
 path = LandPythonDeviceSimulator
 url = ssh://git@github.com/CodeEditorLand/LandPythonDeviceSimulator.git
-ignore = all
 
 [submodule "Editor"]
 path = Editor
 url = ssh://git@github.com/CodeEditorLand/Editor.git
-ignore = all
 
 [submodule "LandJavaPack"]
 path = LandJavaPack
 url = ssh://git@github.com/CodeEditorLand/LandJavaPack.git
-ignore = all
 
 [submodule "LandDocsAuthoring"]
 path = LandDocsAuthoring
 url = ssh://git@github.com/CodeEditorLand/LandDocsAuthoring.git
-ignore = all
 
 [submodule "LandTipsAndTricks"]
 path = LandTipsAndTricks
 url = ssh://git@github.com/CodeEditorLand/LandTipsAndTricks.git
-ignore = all
 
 [submodule "LandEdgeDevTools"]
 path = LandEdgeDevTools
 url = ssh://git@github.com/CodeEditorLand/LandEdgeDevTools.git
-ignore = all
 
 [submodule "LandCopilotRelease"]
 path = LandCopilotRelease
 url = ssh://git@github.com/CodeEditorLand/LandCopilotRelease.git
-ignore = all
 
 [submodule "LandApimanagement"]
 path = LandApimanagement
 url = ssh://git@github.com/CodeEditorLand/LandApimanagement.git
-ignore = all
 
 [submodule "AzureDatalakeToolsForLand"]
 path = AzureDatalakeToolsForLand
 url = ssh://git@github.com/CodeEditorLand/AzureDatalakeToolsForLand.git
-ignore = all
 
 [submodule "LandExtensionSamples"]
 path = LandExtensionSamples
 url = ssh://git@github.com/CodeEditorLand/LandExtensionSamples.git
-ignore = all
 
 [submodule "AzureIOTDeveloperKit"]
 path = AzureIOTDeveloperKit
 url = ssh://git@github.com/CodeEditorLand/AzureIOTDeveloperKit.git
-ignore = all
 
 [submodule "LandToolsForAI"]
 path = LandToolsForAI
 url = ssh://git@github.com/CodeEditorLand/LandToolsForAI.git
-ignore = all
 
 [submodule "LandRemoteRelease"]
 path = LandRemoteRelease
 url = ssh://git@github.com/CodeEditorLand/LandRemoteRelease.git
-ignore = all
 
 [submodule "LandWebViewUIToolkit"]
 path = LandWebViewUIToolkit
 url = ssh://git@github.com/CodeEditorLand/LandWebViewUIToolkit.git
-ignore = all
 
 [submodule "LandDocs"]
 path = LandDocs
 url = ssh://git@github.com/CodeEditorLand/LandDocs.git
-ignore = all
 
 [submodule "AzureBoardsLand"]
 path = AzureBoardsLand
 url = ssh://git@github.com/CodeEditorLand/AzureBoardsLand.git
-ignore = all
 
 [submodule "Gnls"]
 path = Gnls
 url = ssh://git@github.com/CodeEditorLand/Gnls.git
-ignore = all
 
 [submodule "LandAzureAppService"]
 path = LandAzureAppService
 url = ssh://git@github.com/CodeEditorLand/LandAzureAppService.git
-ignore = all
 
 [submodule "LandComment"]
 path = LandComment
 url = ssh://git@github.com/CodeEditorLand/LandComment.git
-ignore = all
 
 [submodule "LandAzureFunctions"]
 path = LandAzureFunctions
 url = ssh://git@github.com/CodeEditorLand/LandAzureFunctions.git
-ignore = all
 
 [submodule "LandCSS"]
 path = LandCSS
 url = ssh://git@github.com/CodeEditorLand/LandCSS.git
-ignore = all
 
 [submodule "LandDtdl"]
 path = LandDtdl
 url = ssh://git@github.com/CodeEditorLand/LandDtdl.git
-ignore = all
 
 [submodule "LandAzureSpringCloud"]
 path = LandAzureSpringCloud
 url = ssh://git@github.com/CodeEditorLand/LandAzureSpringCloud.git
-ignore = all
 
 [submodule "LandEditorConfig"]
 path = LandEditorConfig
 url = ssh://git@github.com/CodeEditorLand/LandEditorConfig.git
-ignore = all
 
 [submodule "LandDocker"]
 path = LandDocker
 url = ssh://git@github.com/CodeEditorLand/LandDocker.git
-ignore = all
 
 [submodule "LandDeployAzure"]
 path = LandDeployAzure
 url = ssh://git@github.com/CodeEditorLand/LandDeployAzure.git
-ignore = all
 
 [submodule "LandGitHubTriageExtension"]
 path = LandGitHubTriageExtension
 url = ssh://git@github.com/CodeEditorLand/LandGitHubTriageExtension.git
-ignore = all
 
 [submodule "LandJSProfileVisualizer"]
 path = LandJSProfileVisualizer
 url = ssh://git@github.com/CodeEditorLand/LandJSProfileVisualizer.git
-ignore = all
 
 [submodule "LandLanguageDetection"]
 path = LandLanguageDetection
 url = ssh://git@github.com/CodeEditorLand/LandLanguageDetection.git
-ignore = all
 
 [submodule "LandMakecode"]
 path = LandMakecode
 url = ssh://git@github.com/CodeEditorLand/LandMakecode.git
-ignore = all
 
 [submodule "LandL10n"]
 path = LandL10n
 url = ssh://git@github.com/CodeEditorLand/LandL10n.git
-ignore = all
 
 [submodule "LandJvmTools"]
 path = LandJvmTools
 url = ssh://git@github.com/CodeEditorLand/LandJvmTools.git
-ignore = all
 
 [submodule "LandNodeDebug2"]
 path = LandNodeDebug2
 url = ssh://git@github.com/CodeEditorLand/LandNodeDebug2.git
-ignore = all
 
 [submodule "LandMockDebug"]
 path = LandMockDebug
 url = ssh://git@github.com/CodeEditorLand/LandMockDebug.git
-ignore = all
 
 [submodule "LandLanguageServerProtocolFoldingprovider"]
 path = LandLanguageServerProtocolFoldingprovider
 url = ssh://git@github.com/CodeEditorLand/LandLanguageServerProtocolFoldingprovider.git
-ignore = all
 
 [submodule "LandNPMScripts"]
 path = LandNPMScripts
 url = ssh://git@github.com/CodeEditorLand/LandNPMScripts.git
-ignore = all
 
 [submodule "LandLsifExtension"]
 path = LandLsifExtension
 url = ssh://git@github.com/CodeEditorLand/LandLsifExtension.git
-ignore = all
 
 [submodule "LandOniguruma"]
 path = LandOniguruma
 url = ssh://git@github.com/CodeEditorLand/LandOniguruma.git
-ignore = all
 
 [submodule "LandMarkdownNotebook"]
 path = LandMarkdownNotebook
 url = ssh://git@github.com/CodeEditorLand/LandMarkdownNotebook.git
-ignore = all
 
 [submodule "LandMakefileTools"]
 path = LandMakefileTools
 url = ssh://git@github.com/CodeEditorLand/LandMakefileTools.git
-ignore = all
 
 [submodule "LandRemoteRepositoriesGitHub"]
 path = LandRemoteRepositoriesGitHub
 url = ssh://git@github.com/CodeEditorLand/LandRemoteRepositoriesGitHub.git
-ignore = all
 
 [submodule "LandNodeAzurePack"]
 path = LandNodeAzurePack
 url = ssh://git@github.com/CodeEditorLand/LandNodeAzurePack.git
-ignore = all
 
 [submodule "LandReactSample"]
 path = LandReactSample
 url = ssh://git@github.com/CodeEditorLand/LandReactSample.git
-ignore = all
 
 [submodule "LandReferencesView"]
 path = LandReferencesView
 url = ssh://git@github.com/CodeEditorLand/LandReferencesView.git
-ignore = all
 
 [submodule "LandPerf"]
 path = LandPerf
 url = ssh://git@github.com/CodeEditorLand/LandPerf.git
-ignore = all
 
 [submodule "LandSmokeTestCheck"]
 path = LandSmokeTestCheck
 url = ssh://git@github.com/CodeEditorLand/LandSmokeTestCheck.git
-ignore = all
 
 [submodule "LandTextMate"]
 path = LandTextMate
 url = ssh://git@github.com/CodeEditorLand/LandTextMate.git
-ignore = all
 
 [submodule "LandTestCli"]
 path = LandTestCli
 url = ssh://git@github.com/CodeEditorLand/LandTestCli.git
-ignore = all
 
 [submodule "LandTye"]
 path = LandTye
 url = ssh://git@github.com/CodeEditorLand/LandTye.git
-ignore = all
 
 [submodule "LandRecipes"]
 path = LandRecipes
 url = ssh://git@github.com/CodeEditorLand/LandRecipes.git
-ignore = all
 
 [submodule "LandThemes"]
 path = LandThemes
 url = ssh://git@github.com/CodeEditorLand/LandThemes.git
-ignore = all
 
 [submodule "NodeRequestLight"]
 path = NodeRequestLight
 url = ssh://git@github.com/CodeEditorLand/NodeRequestLight.git
-ignore = all
 
 [submodule "PythonSampleLandDjangoTutorial"]
 path = PythonSampleLandDjangoTutorial
 url = ssh://git@github.com/CodeEditorLand/PythonSampleLandDjangoTutorial.git
-ignore = all
 
 [submodule "PVSCBot"]
 path = PVSCBot
 url = ssh://git@github.com/CodeEditorLand/PVSCBot.git
-ignore = all
 
 [submodule "PythonSampleLandFastapiTutorial"]
 path = PythonSampleLandFastapiTutorial
 url = ssh://git@github.com/CodeEditorLand/PythonSampleLandFastapiTutorial.git
-ignore = all
 
 [submodule "LandWordCount"]
 path = LandWordCount
 url = ssh://git@github.com/CodeEditorLand/LandWordCount.git
-ignore = all
 
 [submodule "ScopeStudioLand"]
 path = ScopeStudioLand
 url = ssh://git@github.com/CodeEditorLand/ScopeStudioLand.git
-ignore = all
 
 [submodule "PSRuleLand"]
 path = PSRuleLand
 url = ssh://git@github.com/CodeEditorLand/PSRuleLand.git
-ignore = all
 
 [submodule "SarifLandExtension"]
 path = SarifLandExtension
 url = ssh://git@github.com/CodeEditorLand/SarifLandExtension.git
-ignore = all
 
 [submodule "MonacoEditor"]
 path = MonacoEditor
 url = ssh://git@github.com/CodeEditorLand/MonacoEditor.git
-ignore = all
 
 [submodule "LandWebViewUIToolkitSamples"]
 path = LandWebViewUIToolkitSamples
 url = ssh://git@github.com/CodeEditorLand/LandWebViewUIToolkitSamples.git
-ignore = all
 
 [submodule "LandPython"]
 path = LandPython
 url = ssh://git@github.com/CodeEditorLand/LandPython.git
-ignore = all
 
 [submodule "LandPullRequestGitHub"]
 path = LandPullRequestGitHub
 url = ssh://git@github.com/CodeEditorLand/LandPullRequestGitHub.git
-ignore = all
 
 [submodule "LandDocsArchive"]
 path = LandDocsArchive
 url = ssh://git@github.com/CodeEditorLand/LandDocsArchive.git
-ignore = all
 
 [submodule "LandDwarfDebuggingExt"]
 path = LandDwarfDebuggingExt
 url = ssh://git@github.com/CodeEditorLand/LandDwarfDebuggingExt.git
-ignore = all
 
 [submodule "LandJupyterCellTags"]
 path = LandJupyterCellTags
 url = ssh://git@github.com/CodeEditorLand/LandJupyterCellTags.git
-ignore = all
 
 [submodule "LandNotebookRenderers"]
 path = LandNotebookRenderers
 url = ssh://git@github.com/CodeEditorLand/LandNotebookRenderers.git
-ignore = all
 
 [submodule "LandLivePreview"]
 path = LandLivePreview
 url = ssh://git@github.com/CodeEditorLand/LandLivePreview.git
-ignore = all
 
 [submodule "LandGo"]
 path = LandGo
 url = ssh://git@github.com/CodeEditorLand/LandGo.git
-ignore = all
 
 [submodule "Quantum"]
 path = Quantum
 url = ssh://git@github.com/CodeEditorLand/Quantum.git
-ignore = all
 
 [submodule "PlaywrightLand"]
 path = PlaywrightLand
 url = ssh://git@github.com/CodeEditorLand/PlaywrightLand.git
-ignore = all
 
 [submodule "LandWASM"]
 path = LandWASM
 url = ssh://git@github.com/CodeEditorLand/LandWASM.git
-ignore = all
 
 [submodule "LandDataWrangler"]
 path = LandDataWrangler
 url = ssh://git@github.com/CodeEditorLand/LandDataWrangler.git
-ignore = all
 
 [submodule "LandResharperKeybindings"]
 path = LandResharperKeybindings
 url = ssh://git@github.com/CodeEditorLand/LandResharperKeybindings.git
-ignore = all
 
 [submodule "LandJupyterIpywidgets"]
 path = LandJupyterIpywidgets
 url = ssh://git@github.com/CodeEditorLand/LandJupyterIpywidgets.git
-ignore = all
 
 [submodule "LandIsort"]
 path = LandIsort
 url = ssh://git@github.com/CodeEditorLand/LandIsort.git
-ignore = all
 
 [submodule "LandIconvLiteUMD"]
 path = LandIconvLiteUMD
 url = ssh://git@github.com/CodeEditorLand/LandIconvLiteUMD.git
-ignore = all
 
 [submodule "LandGrammarUpdater"]
 path = LandGrammarUpdater
 url = ssh://git@github.com/CodeEditorLand/LandGrammarUpdater.git
-ignore = all
 
 [submodule "LandDiagnosticTools"]
 path = LandDiagnosticTools
 url = ssh://git@github.com/CodeEditorLand/LandDiagnosticTools.git
-ignore = all
 
 [submodule "LandHexEditor"]
 path = LandHexEditor
 url = ssh://git@github.com/CodeEditorLand/LandHexEditor.git
-ignore = all
 
 [submodule "LandEmmetLegacy"]
 path = LandEmmetLegacy
 url = ssh://git@github.com/CodeEditorLand/LandEmmetLegacy.git
-ignore = all
